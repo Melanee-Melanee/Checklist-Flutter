@@ -1,6 +1,6 @@
 # Checklist-Flutter
 
-My published app on google play:
+My android app published on google play:
 
 https://play.google.com/store/apps/details?id=shaghayegh.check_list
 
